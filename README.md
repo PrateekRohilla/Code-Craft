@@ -1,4 +1,4 @@
-# Code Craft
+# Code Craft - Interactive Code Playground
 
 
 **Code Craft** is an interactive online playground similar to CodePen, where you can write HTML, CSS, and JavaScript code and see the live preview on the same page. This tool is perfect for developers and designers who want to experiment with web technologies in real-time.
@@ -38,11 +38,10 @@ After running the development server, you can start writing HTML, CSS, and JavaS
 - **Responsive Design:** Seamlessly works on various devices and screen sizes.
 
 ## Screenshots
-![Code Craft Home](screenshots/home.png)
-*Desktop Screenshot of Code Craft*
+![desktop](https://github.com/PrateekRohilla/Code-Craft/assets/23234142/a01fcd4f-3bf6-41f7-8952-fc2c2eec3a03)
 
-![Code Craft Editor](screenshots/editor.png)
-*Mobile Screenshot of Code Craft*
+![mobile-1](https://github.com/PrateekRohilla/Code-Craft/assets/23234142/b7f65420-d6a4-4ec6-86d3-6db74ff059d6)
+![mobile-2](https://github.com/PrateekRohilla/Code-Craft/assets/23234142/849c12c5-aa47-49c0-8ceb-51510654c5e9)
 
 ## Live Demo
 Check out the live version of Code Craft [here](https://cod-craft.netlify.app).
