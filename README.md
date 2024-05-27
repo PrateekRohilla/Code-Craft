@@ -40,8 +40,10 @@ After running the development server, you can start writing HTML, CSS, and JavaS
 ## Screenshots
 ![desktop](https://github.com/PrateekRohilla/Code-Craft/assets/23234142/a01fcd4f-3bf6-41f7-8952-fc2c2eec3a03)
 
-![mobile-1](https://github.com/PrateekRohilla/Code-Craft/assets/23234142/b7f65420-d6a4-4ec6-86d3-6db74ff059d6)
-![mobile-2](https://github.com/PrateekRohilla/Code-Craft/assets/23234142/849c12c5-aa47-49c0-8ceb-51510654c5e9)
+![mobile-1](https://github.com/PrateekRohilla/Code-Craft/assets/23234142/9702c0e8-2505-42bc-bb54-f8cb11bc464f)
+![mobile-2](https://github.com/PrateekRohilla/Code-Craft/assets/23234142/20d4ccca-f07a-403c-ad14-04b7cd9ae5c1)
+
+
 
 ## Live Demo
 Check out the live version of Code Craft [here](https://cod-craft.netlify.app).
